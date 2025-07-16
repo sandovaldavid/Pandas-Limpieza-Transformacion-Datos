@@ -1,7 +1,7 @@
 # 🏦 Transformación y Limpieza de Datos Bancarios con Pandas
 
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![Pandas](https://img.shields.io/badge/pandas-v1.3+-green.svg)
+![Python](https://img.shields.io/badge/python-v3.12-blue.svg)
+![Pandas](https://img.shields.io/badge/pandas-v2.3.1-green.svg)
 ![Status](https://img.shields.io/badge/status-completed-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
